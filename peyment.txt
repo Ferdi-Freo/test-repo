@@ -2,3 +2,5 @@ metode pembayaran
 - Bank Bca
 - Bank mandiri
 - Bank BRI
+- Dana
+- Gopay
